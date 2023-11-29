@@ -1,3 +1,5 @@
+.vscode/
+__pycache__/
 binary_save_dir/
 experiment_dir/
 fonts/
